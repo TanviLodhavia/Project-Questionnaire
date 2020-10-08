@@ -1,0 +1,14 @@
+
+.body{
+    background-color: rgb(134, 219, 219);
+}
+ol{
+    font-size: larger;
+}
+p{
+    font-size: larger;
+}
+hr{
+    color:black;
+    outline: black;
+}
